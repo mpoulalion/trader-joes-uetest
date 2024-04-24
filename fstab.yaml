@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p121050-e1183639.adobeaemcloud.com/bin/franklin.delivery/mspara26/trader-joes-ue/main"
+    url: "https://author-p99452-e916802.adobeaemcloud.com//bin/franklin.delivery/tuckerelliott/trader-joes-ue"
     type: "markup"
     suffix: ".html"
